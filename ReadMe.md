@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- KEN
 - Kenya
 - كينيا
 - 肯尼亚
