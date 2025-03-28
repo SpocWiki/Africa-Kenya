@@ -1,83 +1,83 @@
----
+﻿---
 location:
-  - -1.28
-  - 36.83
+- -1.28
+- 36.83
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 SpocWebEntityId: 32720
 isDeleted: false
 confidential: public
 has_id_wikidata: Q3870
-Commons gallery: Nairobi
-Commons category: Nairobi
+Commons_gallery: Nairobi
+Commons_category: Nairobi
 hashtag: Nairobi
-OmegaWiki Defined Meaning: "457020"
-coordinate location: Point(36.817222222 -1.286388888)
-WOEID: "1528488"
-U.S. National Archives Identifier: "10044568"
-ISO 3166-2 code: KE-110
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Nairobi.svg
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nairobi.svg
-official website: https://nairobi.go.ke/
-native label: Nairobi
-official name: Nairobi
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Kunming,182852]]"
-  - "[[/_Standards/WikiData/WD~Pingxiang,362865]]"
-  - "[[/_Standards/WikiData/WD~Parintins,926713]]"
-  - "[[/_Standards/WikiData/WD~Colonia Tovar,964130]]"
-  - "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
-  - "[[/_Standards/WikiData/WD~Denver,16554]]"
-  - "[[/_Standards/WikiData/WD~Raleigh,41087]]"
-described by source: "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Nairobi Province,1061480]]"
-  - "[[/_Standards/WikiData/WD~Kenya Colony,2538511]]"
-  - "[[/_Standards/WikiData/WD~Nairobi County,3335223]]"
-  - "[[/_Standards/WikiData/WD~Kenya,114]]"
-instance of:
-  - "[[/_Standards/WikiData/WD~big city,1549591]]"
-  - "[[/_Standards/WikiData/WD~administrative territorial entity of Kenya,3976641]]"
-located in the administrative territorial entity: "[[/_Standards/WikiData/WD~Nairobi County,3335223]]"
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20banner.jpg
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20economic%20capital%20of%20africa.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%2C%20view%20from%20KICC.JPG
-Dewey Decimal Classification: 2--67625
+OmegaWiki_Defined_Meaning: 457020
+coordinate_location: "Point(36.817222222 -1.286388888)"
+WOEID: 1528488
+U_S_National_Archives_Identifier: 10044568
+ISO_3166_2_code: KE-110
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Nairobi.svg"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nairobi.svg"
+official_website: "https://nairobi.go.ke/"
+native_label: Nairobi
+official_name: Nairobi
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Kunming,182852]]'
+- '[[/_Standards/WikiData/WD~Pingxiang,362865]]'
+- '[[/_Standards/WikiData/WD~Parintins,926713]]'
+- "[[/_Standards/WikiData/WD~Colonia Tovar,964130]]"
+- "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- '[[/_Standards/WikiData/WD~Denver,16554]]'
+- '[[/_Standards/WikiData/WD~Raleigh,41087]]'
+described_by_source: "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+capital_of:
+- "[[/_Standards/WikiData/WD~Nairobi Province,1061480]]"
+- "[[/_Standards/WikiData/WD~Kenya Colony,2538511]]"
+- "[[/_Standards/WikiData/WD~Nairobi County,3335223]]"
+- '[[/_Standards/WikiData/WD~Kenya,114]]'
+instance_of:
+- "[[/_Standards/WikiData/WD~big city,1549591]]"
+- "[[/_Standards/WikiData/WD~administrative territorial entity of Kenya,3976641]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Nairobi County,3335223]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20banner.jpg"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20economic%20capital%20of%20africa.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%2C%20view%20from%20KICC.JPG"
+Dewey_Decimal_Classification: 2--67625
 HASC: KE.NB
-FIPS 10-4 (countries and regions): KE05
-UN/LOCODE: KENBO
-GitHub topic: nairobi
+FIPS_10_4_countries_and_regions_: KE05
+UN_LOCODE: KENBO
+GitHub_topic: nairobi
 subreddit: nairobi
 demonym:
-  - Nairobian
-  - Najrobiano
-  - nairobien
-  - Nairobien
-  - nairobienne
-  - Nairobienne
-  - Monairobi
-part of: "[[/_Standards/WikiData/WD~Southern Rift Valley,14206200]]"
-inception: 1899-01-01T00:00:00Z
-open data portal: "[[/_Standards/WikiData/WD~Nairobi open data,97130876]]"
-economy of topic: "[[/_Standards/WikiData/WD~economy of Nairobi,106020188]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Nairobi%2C%20Kenya.webm
+- Nairobian
+- Najrobiano
+- nairobien
+- Nairobien
+- nairobienne
+- Nairobienne
+- Monairobi
+part_of: "[[/_Standards/WikiData/WD~Southern Rift Valley,14206200]]"
+inception: "1899-01-01T00:00:00Z"
+open_data_portal: "[[/_Standards/WikiData/WD~Nairobi open data,97130876]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy of Nairobi,106020188]]"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Nairobi%2C%20Kenya.webm"
 ISNI: 000000010791732X
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20County%20location%20map.png
-language used:
-  - "[[/_Standards/WikiData/WD~English,1860]]"
-  - "[[/_Standards/WikiData/WD~Swahili,7838]]"
-  - "[[/_Standards/WikiData/WD~Maasai,35787]]"
-located in time zone: "[[/_Standards/WikiData/WD~UTC+03_00,6760]]"
-country: "[[/_Standards/WikiData/WD~Kenya,114]]"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20County%20location%20map.png"
+language_used:
+- '[[/_Standards/WikiData/WD~English,1860]]'
+- '[[/_Standards/WikiData/WD~Swahili,7838]]'
+- '[[/_Standards/WikiData/WD~Maasai,35787]]'
+located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+03_00,6760]]'
+country: '[[/_Standards/WikiData/WD~Kenya,114]]'
 area: 696
-elevation above sea level: 1661
+elevation_above_sea_level: 1661
 population: 5545000
-local dialing code: "020"
+local_dialing_code: 020
 ---
 
 # [[Nairobi,City]] 
