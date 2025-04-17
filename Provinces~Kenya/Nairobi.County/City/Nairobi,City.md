@@ -30,20 +30,20 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Kunming,182852]]'
 - '[[/_Standards/WikiData/WD~Pingxiang,362865]]'
 - '[[/_Standards/WikiData/WD~Parintins,926713]]'
-- "[[/_Standards/WikiData/WD~Colonia Tovar,964130]]"
-- "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- "[[/_Standards/WikiData/WD~Colonia_Tovar,964130]]"
+- "[[/_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
 - '[[/_Standards/WikiData/WD~Denver,16554]]'
 - '[[/_Standards/WikiData/WD~Raleigh,41087]]'
-described_by_source: "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+described_by_source: "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Nairobi Province,1061480]]"
-- "[[/_Standards/WikiData/WD~Kenya Colony,2538511]]"
-- "[[/_Standards/WikiData/WD~Nairobi County,3335223]]"
+- "[[/_Standards/WikiData/WD~Nairobi_Province,1061480]]"
+- "[[/_Standards/WikiData/WD~Kenya_Colony,2538511]]"
+- "[[/_Standards/WikiData/WD~Nairobi_County,3335223]]"
 - '[[/_Standards/WikiData/WD~Kenya,114]]'
 instance_of:
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~administrative territorial entity of Kenya,3976641]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Nairobi County,3335223]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~administrative_territorial_entity_of_Kenya,3976641]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Nairobi_County,3335223]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20banner.jpg"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20economic%20capital%20of%20africa.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%2C%20view%20from%20KICC.JPG"
@@ -61,10 +61,10 @@ demonym:
 - nairobienne
 - Nairobienne
 - Monairobi
-part_of: "[[/_Standards/WikiData/WD~Southern Rift Valley,14206200]]"
+part_of: "[[/_Standards/WikiData/WD~Southern_Rift_Valley,14206200]]"
 inception: "1899-01-01T00:00:00Z"
-open_data_portal: "[[/_Standards/WikiData/WD~Nairobi open data,97130876]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Nairobi,106020188]]"
+open_data_portal: "[[/_Standards/WikiData/WD~Nairobi_open_data,97130876]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Nairobi,106020188]]"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Nairobi%2C%20Kenya.webm"
 ISNI: 000000010791732X
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20County%20location%20map.png"
