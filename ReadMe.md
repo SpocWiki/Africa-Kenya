@@ -129,10 +129,4 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Kenya|Kenya]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Kenya.internal|Kenya.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Kenya.protect|Kenya.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Kenya.private|Kenya.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Kenya.personal|Kenya.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Kenya.secret|Kenya.secret]] 
+

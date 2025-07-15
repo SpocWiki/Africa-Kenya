@@ -117,11 +117,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nairobi) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/City/Nairobi.City|Nairobi.City]] 
-- [[../../../../../../_public/geo/Continent/Africa/Kenya/City/Nairobi.City.public|Nairobi.City.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Kenya/City/Nairobi.City.internal|Nairobi.City.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Kenya/City/Nairobi.City.protect|Nairobi.City.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Kenya/City/Nairobi.City.private|Nairobi.City.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Kenya/City/Nairobi.City.personal|Nairobi.City.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Kenya/City/Nairobi.City.secret|Nairobi.City.secret]] 
+
+### #is_/same_as :: [Nairobi,City](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.md) 
+
+### #is_/same_as :: [Nairobi,City.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.public.md) 
+
+### #is_/same_as :: [Nairobi,City.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.internal.md) 
+
+### #is_/same_as :: [Nairobi,City.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.protect.md) 
+
+### #is_/same_as :: [Nairobi,City.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.private.md) 
+
+### #is_/same_as :: [Nairobi,City.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.personal.md) 
+
+### #is_/same_as :: [Nairobi,City.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.secret.md)
+

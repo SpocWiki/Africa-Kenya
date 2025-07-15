@@ -40,11 +40,18 @@ markerFolder: ./Nairobi.County/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Nairobi.County|Nairobi.County]] 
-- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Nairobi.County.public|Nairobi.County.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nairobi.County.internal|Nairobi.County.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nairobi.County.protect|Nairobi.County.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Nairobi.County.private|Nairobi.County.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nairobi.County.personal|Nairobi.County.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nairobi.County.secret|Nairobi.County.secret]] 
+
+### #is_/same_as :: [Nairobi.County](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County.md) 
+
+### #is_/same_as :: [Nairobi.County.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County.public.md) 
+
+### #is_/same_as :: [Nairobi.County.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County.internal.md) 
+
+### #is_/same_as :: [Nairobi.County.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County.protect.md) 
+
+### #is_/same_as :: [Nairobi.County.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County.private.md) 
+
+### #is_/same_as :: [Nairobi.County.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County.personal.md) 
+
+### #is_/same_as :: [Nairobi.County.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County.secret.md)
 

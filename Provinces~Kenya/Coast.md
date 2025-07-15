@@ -40,11 +40,18 @@ markerFolder: ./Coast/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Coast|Coast]] 
-- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Coast.public|Coast.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Coast.internal|Coast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Coast.protect|Coast.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Coast.private|Coast.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Coast.personal|Coast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Coast.secret|Coast.secret]] 
+
+### #is_/same_as :: [Coast](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Coast.md) 
+
+### #is_/same_as :: [Coast.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Coast.public.md) 
+
+### #is_/same_as :: [Coast.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Coast.internal.md) 
+
+### #is_/same_as :: [Coast.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Coast.protect.md) 
+
+### #is_/same_as :: [Coast.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Coast.private.md) 
+
+### #is_/same_as :: [Coast.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Coast.personal.md) 
+
+### #is_/same_as :: [Coast.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Coast.secret.md)
 

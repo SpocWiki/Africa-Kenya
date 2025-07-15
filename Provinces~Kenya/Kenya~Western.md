@@ -40,11 +40,18 @@ markerFolder: ./Kenya~Western/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Kenya~Western|Kenya~Western]] 
-- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Kenya~Western.public|Kenya~Western.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Kenya~Western.internal|Kenya~Western.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Kenya~Western.protect|Kenya~Western.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Kenya~Western.private|Kenya~Western.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Kenya~Western.personal|Kenya~Western.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Kenya~Western.secret|Kenya~Western.secret]] 
+
+### #is_/same_as :: [Kenya~Western](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Western.md) 
+
+### #is_/same_as :: [Kenya~Western.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Western.public.md) 
+
+### #is_/same_as :: [Kenya~Western.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Western.internal.md) 
+
+### #is_/same_as :: [Kenya~Western.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Western.protect.md) 
+
+### #is_/same_as :: [Kenya~Western.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Western.private.md) 
+
+### #is_/same_as :: [Kenya~Western.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Western.personal.md) 
+
+### #is_/same_as :: [Kenya~Western.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Western.secret.md)
 

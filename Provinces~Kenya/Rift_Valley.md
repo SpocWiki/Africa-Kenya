@@ -40,11 +40,18 @@ markerFolder: ./Rift_Valley/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Rift_Valley|Rift_Valley]] 
-- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Rift_Valley.public|Rift_Valley.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Rift_Valley.internal|Rift_Valley.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Rift_Valley.protect|Rift_Valley.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Rift_Valley.private|Rift_Valley.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Rift_Valley.personal|Rift_Valley.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Rift_Valley.secret|Rift_Valley.secret]] 
+
+### #is_/same_as :: [Rift_Valley](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley.md) 
+
+### #is_/same_as :: [Rift_Valley.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley.public.md) 
+
+### #is_/same_as :: [Rift_Valley.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley.internal.md) 
+
+### #is_/same_as :: [Rift_Valley.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley.protect.md) 
+
+### #is_/same_as :: [Rift_Valley.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley.private.md) 
+
+### #is_/same_as :: [Rift_Valley.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley.personal.md) 
+
+### #is_/same_as :: [Rift_Valley.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley.secret.md)
 

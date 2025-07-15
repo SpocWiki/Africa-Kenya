@@ -40,11 +40,18 @@ markerFolder: ./Nyanza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Nyanza|Nyanza]] 
-- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Nyanza.public|Nyanza.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nyanza.internal|Nyanza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nyanza.protect|Nyanza.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Nyanza.private|Nyanza.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nyanza.personal|Nyanza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nyanza.secret|Nyanza.secret]] 
+
+### #is_/same_as :: [Nyanza](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nyanza.md) 
+
+### #is_/same_as :: [Nyanza.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nyanza.public.md) 
+
+### #is_/same_as :: [Nyanza.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nyanza.internal.md) 
+
+### #is_/same_as :: [Nyanza.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nyanza.protect.md) 
+
+### #is_/same_as :: [Nyanza.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nyanza.private.md) 
+
+### #is_/same_as :: [Nyanza.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nyanza.personal.md) 
+
+### #is_/same_as :: [Nyanza.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nyanza.secret.md)
 
