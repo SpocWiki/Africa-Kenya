@@ -26,14 +26,16 @@ publishDate:
 expiryDate:
 ---
 
-# Rift_Valley
+# [[Rift_Valley]]
+
+## #has_/map  
 
 ```leaflet
 id: Rift_Valley
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Rift_Valley/
+geojsonFolder: ./Rift_Valley////
 markerFolder: ./Rift_Valley/
 ```
 

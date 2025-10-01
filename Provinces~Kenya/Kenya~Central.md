@@ -26,7 +26,7 @@ publishDate:
 expiryDate:
 ---
 
-# Kenya~Central
+# [[Kenya~Central]]
 
 ```leaflet
 id: Kenya~Central
