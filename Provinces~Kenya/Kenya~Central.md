@@ -28,6 +28,9 @@ expiryDate:
 
 # [[Kenya~Central]]
 
+
+## #has_/map 
+
 ```leaflet
 id: Kenya~Central
 zoomFeatures: true 
@@ -35,6 +38,8 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kenya~Central/
 markerFolder: ./Kenya~Central/
+coordinates: [[Kenya~Central]] 
+markerFile: [[Kenya~Central]] 
 ```
 
 
