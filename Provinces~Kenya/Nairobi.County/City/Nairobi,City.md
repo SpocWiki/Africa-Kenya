@@ -91,15 +91,52 @@ Country :: [[Kenya]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Nairobi,3870|WD~Nairobi,3870]] 
+
+## #has_/map 
 
 ```leaflet
-id: Nairobi.City
-coordinates: [[Nairobi.City]] 
-markerFile: [[Nairobi.City]] 
+id: Nairobi,City
+coordinates: [[Nairobi,City]] 
+markerFile: [[Nairobi,City]] 
+geojsonFolder: ./Nairobi,City/
+markerFolder: ./Nairobi,City/
 defaultZoom: 11 
 maxZoom: 18
 ```
 
+## #has_/text_of_/abstract 
+
+> **Nairobi**, abbreviated as NBO, is the capital and largest city of Kenya, 
+> located in the south-central part of the country. 
+> 
+> As of 2024, it has a population of 4.8 million and a metropolitan population of 5.7 million, 
+> making it the 11th most populous city in Africa. 
+> It is the major financial and economic hub of East Africa, 
+> hosting numerous multinational companies and regional organizations, 
+> including the United Nations Office at Nairobi. 
+> 
+> Nicknamed the “Green City in the Sun,” Nairobi is uniquely notable for being 
+> the only capital city in the world that hosts a national park within its boundaries, 
+> and its name originates from the Maasai phrase Enkare Nyirobi, meaning “place of cool waters."
+>
+> Nairobi is home of the Kenyan Parliament Buildings 
+> and hosts thousands of Kenyan businesses, international companies and organisations, 
+> including the United Nations Environment Programme (UN Environment) 
+> and the United Nations Office at Nairobi (UNON). 
+> 
+> Nairobi is an established hub for business and culture. 
+> The Nairobi Securities Exchange (NSE) is one of the largest stock exchanges in Africa 
+> and the second-oldest exchange on the continent. 
+> 
+> It is Africa's fourth-largest stock exchange in terms of trading volume, 
+> capable of making 10 million trades a day. It also contains the Nairobi National Park. Nairobi joined the UNESCO Global Network of Learning Cities in 2010.
+>
+> Nairobi was founded in 1898 by colonial authorities in British East Africa, as a rail depot on the Uganda–Kenya Railway. It was favoured by the authorities as an ideal resting place due to its high elevation, temperate climate, and adequate water supply. The town quickly grew to replace Mombasa as the capital of Kenya in 1907.
+>
+> After independence in 1963, Nairobi became the capital of the Republic of Kenya. During Kenya's early period, the city became a centre for the coffee, tea and sisal industries. The successive black governments since independence have built and turned Nairobi into a modern metropolitan city with a diverse population and a growing economy.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Nairobi)
 
 ## #has_/text_of_/abstract 
 
