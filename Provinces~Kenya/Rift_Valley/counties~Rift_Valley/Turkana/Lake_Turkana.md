@@ -82,3 +82,20 @@ markerFile: [[Lake_Turkana]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Turkana) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley/counties~Rift_Valley/Turkana/Lake_Turkana|Lake_Turkana]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley/counties~Rift_Valley/Turkana/Lake_Turkana.public|Lake_Turkana.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley/counties~Rift_Valley/Turkana/Lake_Turkana.internal|Lake_Turkana.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley/counties~Rift_Valley/Turkana/Lake_Turkana.protect|Lake_Turkana.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley/counties~Rift_Valley/Turkana/Lake_Turkana.private|Lake_Turkana.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley/counties~Rift_Valley/Turkana/Lake_Turkana.personal|Lake_Turkana.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Rift_Valley/counties~Rift_Valley/Turkana/Lake_Turkana.secret|Lake_Turkana.secret]] 
+

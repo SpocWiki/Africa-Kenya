@@ -40,17 +40,17 @@ markerFolder: ./Kenya~North-Eastern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kenya~North-Eastern](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern|Kenya~North-Eastern]] 
 
-### #is_/same_as :: [Kenya~North-Eastern.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.public|Kenya~North-Eastern.public]] 
 
-### #is_/same_as :: [Kenya~North-Eastern.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.internal|Kenya~North-Eastern.internal]] 
 
-### #is_/same_as :: [Kenya~North-Eastern.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.protect|Kenya~North-Eastern.protect]] 
 
-### #is_/same_as :: [Kenya~North-Eastern.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.private|Kenya~North-Eastern.private]] 
 
-### #is_/same_as :: [Kenya~North-Eastern.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.personal|Kenya~North-Eastern.personal]] 
 
-### #is_/same_as :: [Kenya~North-Eastern.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~North-Eastern.secret|Kenya~North-Eastern.secret]] 
 

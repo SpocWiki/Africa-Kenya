@@ -40,17 +40,17 @@ markerFolder: ./Kenya~Eastern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kenya~Eastern](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern|Kenya~Eastern]] 
 
-### #is_/same_as :: [Kenya~Eastern.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.public|Kenya~Eastern.public]] 
 
-### #is_/same_as :: [Kenya~Eastern.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.internal|Kenya~Eastern.internal]] 
 
-### #is_/same_as :: [Kenya~Eastern.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.protect|Kenya~Eastern.protect]] 
 
-### #is_/same_as :: [Kenya~Eastern.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.private|Kenya~Eastern.private]] 
 
-### #is_/same_as :: [Kenya~Eastern.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.personal|Kenya~Eastern.personal]] 
 
-### #is_/same_as :: [Kenya~Eastern.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Eastern.secret|Kenya~Eastern.secret]] 
 

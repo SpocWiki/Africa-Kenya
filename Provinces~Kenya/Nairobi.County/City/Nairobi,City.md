@@ -157,17 +157,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nairobi,City](/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City|Nairobi,City]] 
 
-### #is_/same_as :: [Nairobi,City.public](/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.public|Nairobi,City.public]] 
 
-### #is_/same_as :: [Nairobi,City.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.internal|Nairobi,City.internal]] 
 
-### #is_/same_as :: [Nairobi,City.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.protect|Nairobi,City.protect]] 
 
-### #is_/same_as :: [Nairobi,City.private](/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.private|Nairobi,City.private]] 
 
-### #is_/same_as :: [Nairobi,City.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.personal|Nairobi,City.personal]] 
 
-### #is_/same_as :: [Nairobi,City.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Nairobi.County/City/Nairobi,City.secret|Nairobi,City.secret]] 
 

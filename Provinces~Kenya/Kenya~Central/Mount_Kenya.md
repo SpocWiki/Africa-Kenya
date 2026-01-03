@@ -76,3 +76,20 @@ official_website: https://www.mountkenya.org/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Kenya) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Central/Mount_Kenya|Mount_Kenya]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Central/Mount_Kenya.public|Mount_Kenya.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Central/Mount_Kenya.internal|Mount_Kenya.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Central/Mount_Kenya.protect|Mount_Kenya.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Central/Mount_Kenya.private|Mount_Kenya.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Central/Mount_Kenya.personal|Mount_Kenya.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Kenya/Provinces~Kenya/Kenya~Central/Mount_Kenya.secret|Mount_Kenya.secret]] 
+
