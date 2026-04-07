@@ -9,22 +9,22 @@ has_id_wikidata: Q172070
 location: [-0.1, 37.2]
 coordinate_location: Point(37.2 -0.1)
 part_of:
-  - "[[_Standards/WikiData/WD~Great_Rift_Valley,81591]]"
-  - "[[_Standards/WikiData/WD~Seven_Second_Summits,1855408]]"
-made_from_material: "[[_Standards/WikiData/WD~syenite,329118]]"
+  - "[[_Standards/WikiData/WD~Great_Rift_Valley,81591|WD~Great_Rift_Valley,81591]]"
+  - "[[_Standards/WikiData/WD~Seven_Second_Summits,1855408|WD~Seven_Second_Summits,1855408]]"
+made_from_material: "[[_Standards/WikiData/WD~syenite,329118|WD~syenite,329118]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-highest_point: "[[_Standards/WikiData/WD~Batian,810817]]"
-significant_event: "[[_Standards/WikiData/WD~first_ascent,1194369]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~East_African_Rift,1234397]]"
-is_member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439]]"
-mountain_range: "[[_Standards/WikiData/WD~Mount_Kilimanjaro,7296]]"
-instance_of: "[[_Standards/WikiData/WD~mountain,8502]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-country: "[[_Standards/WikiData/WD~Kenya,114]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+highest_point: "[[_Standards/WikiData/WD~Batian,810817|WD~Batian,810817]]"
+significant_event: "[[_Standards/WikiData/WD~first_ascent,1194369|WD~first_ascent,1194369]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~East_African_Rift,1234397|WD~East_African_Rift,1234397]]"
+is_member_of: "[[_Standards/WikiData/WD~Man_and_the_Biosphere_Programme,14018439|WD~Man_and_the_Biosphere_Programme,14018439]]"
+mountain_range: "[[_Standards/WikiData/WD~Mount_Kilimanjaro,7296|WD~Mount_Kilimanjaro,7296]]"
+instance_of: "[[_Standards/WikiData/WD~mountain,8502|WD~mountain,8502]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
+country: "[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]"
 topographic_isolation: 323
 topographic_prominence: 3825
 elevation_above_sea_level: 5199

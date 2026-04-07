@@ -116,7 +116,7 @@ markerFolder: .//
 [Area-Land::569140] 
 Continent :: [[Africa]]  
 [VehicleCode::EAK] 
-Capital :: [[Kenya/Counties/Nairobi.County]] 
+Capital :: [[Kenya/Counties/Nairobi.County|Nairobi.County]] 
 
 ![[Coat_of_arms_of_Kenya.svg|550]] 
 

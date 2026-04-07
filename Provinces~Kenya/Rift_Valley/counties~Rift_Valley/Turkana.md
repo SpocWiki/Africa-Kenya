@@ -4,7 +4,7 @@ has_id_wikidata: Q36958
 ---
 # [[Turkana]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Turkana,36958]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Turkana,36958|WD~Turkana,36958]] 
 
 ## #has_/map  
 

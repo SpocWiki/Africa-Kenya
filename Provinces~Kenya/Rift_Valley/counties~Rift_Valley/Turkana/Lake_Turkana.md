@@ -2,25 +2,25 @@
 aliases:
 has_id_wikidata: Q182719
 location: [[4.05, 36.016666666]]
-outflows: "[[_Standards/WikiData/WD~evaporation,132814]]"
+outflows: "[[_Standards/WikiData/WD~evaporation,132814|WD~evaporation,132814]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~salt_lake,188025]]"
-  - "[[_Standards/WikiData/WD~endorheic_lake,9019918]]"
+  - "[[_Standards/WikiData/WD~salt_lake,188025|WD~salt_lake,188025]]"
+  - "[[_Standards/WikiData/WD~endorheic_lake,9019918|WD~endorheic_lake,9019918]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Omo_River,273456]]"
-  - "[[_Standards/WikiData/WD~Turkwel_River,695634]]"
-  - "[[_Standards/WikiData/WD~Kibish_River,1094334]]"
-  - "[[_Standards/WikiData/WD~Kerio_River,2305746]]"
-different_from: "[[_Standards/WikiData/WD~Turkana_people,1453190]]"
-part_of: "[[_Standards/WikiData/WD~Lake_Turkana_National_Parks,1647948]]"
+  - "[[_Standards/WikiData/WD~Omo_River,273456|WD~Omo_River,273456]]"
+  - "[[_Standards/WikiData/WD~Turkwel_River,695634|WD~Turkwel_River,695634]]"
+  - "[[_Standards/WikiData/WD~Kibish_River,1094334|WD~Kibish_River,1094334]]"
+  - "[[_Standards/WikiData/WD~Kerio_River,2305746|WD~Kerio_River,2305746]]"
+different_from: "[[_Standards/WikiData/WD~Turkana_people,1453190|WD~Turkana_people,1453190]]"
+part_of: "[[_Standards/WikiData/WD~Lake_Turkana_National_Parks,1647948|WD~Lake_Turkana_National_Parks,1647948]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628|WD~IUCN_category_II_National_Park,14545628]]"
 country:
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
+  - "[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]"
+  - "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
 length: 290
 width: 32
 elevation_above_sea_level: 360
