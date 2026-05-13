@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nyanza/
 markerFolder: ./Nyanza/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

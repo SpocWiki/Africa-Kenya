@@ -37,7 +37,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Rift_Valley////
 markerFolder: ./Rift_Valley/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -15,7 +15,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Turkana////
 markerFolder: ./Turkana/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

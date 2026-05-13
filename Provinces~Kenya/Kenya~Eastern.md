@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kenya~Eastern/
 markerFolder: ./Kenya~Eastern/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

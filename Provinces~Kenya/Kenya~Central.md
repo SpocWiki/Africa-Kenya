@@ -40,7 +40,7 @@ geojsonFolder: ./Kenya~Central/
 markerFolder: ./Kenya~Central/
 coordinates: [[Kenya~Central]] 
 markerFile: [[Kenya~Central]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
