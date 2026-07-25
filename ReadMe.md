@@ -27,8 +27,8 @@ dv_UNTERM_Chinese_Formal: 肯尼亚共和国
 dv_UNTERM_French_Formal: la République du Kenya
 dv_UNTERM_Russian: Кения
 dv_UNTERM_Russian_Formal: Республика Кения
-dv_Region_Name: '[[../../Africa|Africa]]'
-dv_Intermediate_Region_Name: '[[../Africa~East|Eastern Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
+dv_Intermediate_Region_Name: '[[../../Africa~East|Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 14
@@ -53,7 +53,7 @@ dv_ISO2: KE
 dv_ISO3: KEN
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Kenya,114|WD~Kenya,114]]'
+  - '[[../../../../../WikiData/WD~Kenya,114|WD~Kenya,114]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Kenya|Kenya]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Kenya.public|Kenya.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Kenya.internal|Kenya.internal]]'
@@ -375,17 +375,17 @@ dv_has_:
 dv_has_name_de: Kenia
 dv_Area-Total: 582646
 dv_Area-Land: 569140
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: EAK
-dv_Capital: '[[Kenya/Counties/Nairobi.County|Nairobi.County]]'
+dv_Capital: '[[Counties/Nairobi.County|Nairobi.County]]'
 dv_Alcohol-l: 4.1
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 36.83
 dv_has_place_latitude: -1.28
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Kenya,114|WD~Kenya,114]]'
+- '[[../../../../../WikiData/WD~Kenya,114|WD~Kenya,114]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Kenya|Kenya]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Kenya.public|Kenya.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Kenya.internal|Kenya.internal]]'
@@ -975,7 +975,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Kenya/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -995,7 +995,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Kenya_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1021,11 +1021,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-![[Kenya/Coat_of_arms_of_Kenya.svg|550]]
+![[Coat_of_arms_of_Kenya.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kenya.mp3|Anthem-Kenya.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Kenya.mp3|Anthem-Kenya.mp3]]
 
-![[Kenya/Flag_of_Kenya.svg|350]]
+![[Flag_of_Kenya.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
